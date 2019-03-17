@@ -243,6 +243,7 @@ img {
 
 .member-img-wrp:hover .card-modal {
   opacity: 0.8;
+  transition: all 0.2s linear;
   box-shadow: 15px 15px 0px 0px rgba(149, 225, 211, 1);
 }
 
@@ -276,6 +277,7 @@ img {
 
 .icons-btn:hover {
   background-color: #95e1d3;
+  transition: all 0.2s linear;
 }
 /*---------------------footer-------------------------*/
 footer {
