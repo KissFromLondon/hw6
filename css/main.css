@@ -87,6 +87,9 @@ img {
   color: #95e1d3;
   text-transform: uppercase;
   width: var(--row);
+  display: inline-block;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 .list-link:hover,
@@ -239,6 +242,7 @@ img {
   bottom: 15px;
   right: 15px;
   left: -15px;
+  transition: all 0.4s ease-out;
 }
 
 .member-img-wrp:hover .card-modal {
