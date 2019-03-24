@@ -80,6 +80,7 @@ img {
 .list-item {
   width: var(--col);
   text-align: center;
+  margin: 0 1rem;
 }
 
 .list-link {
